@@ -1,2 +1,0 @@
-# quizzical
-Learning Project: @scrimba
